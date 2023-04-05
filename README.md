@@ -3,7 +3,7 @@
 Đồ án cuối kỳ môn học Dữ Liệu Lớn và Ứng Dụng (UEH)
 
 # Tổng quan dự án
-1. Thực hiện crawl dữ liệu từ các playlist trên Spotify thông qua API của Spotify.
+1. Thực hiện crawl dữ liệu từ các playlist trên Spotify thông qua API của Spotify (cần có client_id, client_secret, URI của các playlist muốn thu thập)
 2. EDA (Exploratory Data Analysis).
 2. Tiền xử lý dữ liệu: Chỉnh dạng dữ liệu, thêm dữ liệu cần thiết. 
 5. Xây dựng hệ thống đề xuất bài hát dựa trên phương pháp phân cụm K-Means.
