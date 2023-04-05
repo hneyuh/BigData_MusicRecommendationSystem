@@ -1,0 +1,21 @@
+,id,title,all_artists,album_name,popularity,release_date,explicit,speechiness,danceability,energy,key,loudness,mode,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,genres,artist_pop,genres_list,matched
+51,0CLnkxpa3M4eA3HeGaERat,Gorgeous,Taylor Swift,Gorgeous,0,10/20/2017,FALSE,0.169,0.794,0.537,7,-6.865,1,0.079,4.98E-06,0.227,0.418,92.022,209680,4,pop,100,[pop],TRUE
+212,4nYsmWkuTaowTMy4gskmBw,What Lovers Do (feat. SZA),SZA,Red Pill Blues (Deluxe),0,11/03/2017,FALSE,0.0693,0.792,0.612,5,-5.212,0,0.0805,3.83E-06,0.0852,0.42,109.959,199849,4,pop,87,[pop],TRUE
+247,0V8FYVlBFuXXTIvRnMbZyS,The Climb,Miley Cyrus,Hannah Montana The Movie,67,01/01/2009,FALSE,0.0336,0.327,0.588,4,-6.611,1,0.0834,0,0.104,0.329,161.074,236067,4,pop,93,[pop],TRUE
+539,4svZDCRz4cJoneBpjpx8DJ,I Did Something Bad,Taylor Swift,reputation,73,11/10/2017,FALSE,0.159,0.696,0.602,0,-6.156,0,0.0679,2.11E-05,0.0696,0.305,82.989,238253,4,pop,100,[pop],TRUE
+540,1ZY1PqizIl78geGM4xWlEA,Gorgeous,Taylor Swift,reputation,76,11/10/2017,FALSE,0.135,0.8,0.535,7,-6.684,1,0.0713,9.48E-06,0.213,0.451,92.027,209680,4,pop,100,[pop],TRUE
+583,4lIxdJw6W3Fg4vUIYCB0S5,Style,Taylor Swift,1989,73,10/27/2014,FALSE,0.0383,0.598,0.786,2,-5.572,1,0.00253,0.0016,0.117,0.456,95.019,231000,4,pop,100,[pop],TRUE
+1064,5P4wWhUYWM0IaVYLuZxdar,The Way I Loved You,Taylor Swift,Fearless,53,11/11/2008,FALSE,0.0336,0.433,0.7,5,-3.709,1,0.0408,0,0.115,0.398,160.927,244227,4,pop,100,[pop],TRUE
+1066,28M2gifMU282QBM3fKajIS,Haunted,Taylor Swift,Speak Now,57,10/25/2010,FALSE,0.057,0.436,0.95,5,-2.627,1,0.0826,1.08E-06,0.149,0.352,162.088,242080,4,pop,100,[pop],TRUE
+1067,6XDBA3QWX51lDJ0oZbaJJN,Long Live,Taylor Swift,Speak Now,55,10/25/2010,FALSE,0.0346,0.418,0.68,7,-4.3,1,0.036,7.59E-05,0.108,0.142,204.125,317947,4,pop,100,[pop],TRUE
+1074,49mWEy5MgtNujgT7xU3emT,Breathe,Colbie Caillat,Fearless,43,11/11/2008,FALSE,0.0276,0.505,0.482,1,-7.372,1,0.379,0,0.113,0.184,73.975,263973,4,pop,100,[pop],TRUE
+1081,2X2J0BhxaLTmnxO4pPUhSd,The Lucky One,Taylor Swift,Red,35,10/22/2012,FALSE,0.0369,0.706,0.499,4,-7.675,1,0.0371,0,0.132,0.545,117.937,240133,4,pop,100,[pop],TRUE
+1107,2zfgVd034GlUvk7LqBHl6u,I Know Places,Taylor Swift,1989 (Deluxe Edition),59,10/27/2014,FALSE,0.071,0.602,0.755,0,-4.991,1,0.245,0,0.178,0.495,159.965,195707,4,pop,100,[pop],TRUE
+1110,5vyxXfD5gLlyPxGZMEjtmd,Crazier,Taylor Swift,Hannah Montana The Movie,61,01/01/2009,FALSE,0.0277,0.452,0.544,4,-5.423,1,0.0631,5.33E-06,0.104,0.158,133.042,191947,3,pop,100,[pop],TRUE
+1117,5G9AVKld9q7DCrmoY42raf,State Of Grace - Acoustic,Taylor Swift,Red (Deluxe Edition),39,10/22/2012,FALSE,0.0305,0.626,0.118,7,-15.91,1,0.664,0.000169,0.127,0.0682,105.597,323080,4,pop,100,[pop],TRUE
+1139,0XfOV7qY3834QpFVwOb6CC,Treacherous,Taylor Swift,Red (Deluxe Edition),43,10/22/2012,FALSE,0.0334,0.705,0.621,2,-8.086,1,0.101,4.30E-06,0.147,0.395,109.993,240773,4,pop,100,[pop],TRUE
+2759,5ybJm6GczjQOgTqmJ0BomP,22,Taylor Swift,Red,0,10/22/2012,FALSE,0.0374,0.662,0.736,7,-6.511,1,0.00274,0.000844,0.0464,0.674,104.003,232120,4,pop,100,[pop],TRUE
+6011,70K0ezmzYEZeqoSaZMyP7o,Let It All Go,RHODES,Let It All Go,63,08/06/2015,FALSE,0.0302,0.383,0.43,10,-8.644,1,0.817,1.04E-06,0.0869,0.174,107.005,280757,4,pop,73,[pop],TRUE
+545,1P17dC1amhFzptugyAO7Il,Look What You Made Me Do,Taylor Swift,reputation,76,11/10/2017,FALSE,0.123,0.766,0.709,9,-6.471,0,0.204,1.41E-05,0.126,0.506,128.07,211853,4,pop,100,[pop],
+47,4WXzzCof26KJLTK5kK53dS,Hey Stephen,Taylor Swift,Fearless,46,11/11/2008,FALSE,0.0309,0.841,0.544,6,-7.347,1,0.194,2.48E-06,0.108,0.831,115.994,254307,4,pop,100,[pop],
+118,2QA3IixpRcKyOdG7XDzRgv,The Outside,Taylor Swift,Taylor Swift,50,10/24/2006,FALSE,0.0293,0.589,0.805,5,-4.055,1,0.00491,0,0.24,0.591,112.982,207107,4,pop,100,[pop],
