@@ -12,8 +12,9 @@
 8. Machine Learning: Dự đoán xem user có thích bài hát đó hay không dựa trên các mô hình phân lớp (Decision Tree, SVM, KNN, AdaBoost, Random Forest, Gradient Boosting)
 
 # Tổng quan dữ liệu 
-**Dữ liệu thu thập được gồm có: ** 9901 dòng và 23 cột
-*id: ID của bài hát
+Dữ liệu thu thập được gồm có: 9901 dòng và 23 cột
+```
+*id: ID của bài hát 
 *title: Tên bài hát
 *all_artists: Nghệ sĩ trình diễn bản nhạc
 *album_name: Tên album chứa bản nhạc
@@ -36,3 +37,4 @@
 *artist_pop: Độ phổ biến của ca sĩ
 *genres_list: List thể loại nhạc của bài hát
 *genres: Thể loại của bài hát
+```
