@@ -14,7 +14,7 @@
 # Tổng quan dữ liệu 
 Dữ liệu thu thập được gồm có: 9901 dòng và 23 cột
 ```
-* id: ID của bài hát 
++ id: ID của bài hát 
 * title: Tên bài hát
 * all_artists: Nghệ sĩ trình diễn bản nhạc
 * album_name: Tên album chứa bản nhạc
